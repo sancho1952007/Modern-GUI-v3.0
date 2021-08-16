@@ -30,7 +30,7 @@
 ```bash
 git clone https://github.com/sancho1952007/Modern-GUI-v3.0.git
 cd Modern-GUI-v3.0
-python main.py
+python main.pyw
 ```
 
 <br>
@@ -39,7 +39,7 @@ python main.py
 ```bash
 git clone https://github.com/sancho1952007/Modern-GUI-v3.0.git
 cd Modern-GUI-v3.0
-python3 main.py
+python3 main.pyw
 ```
 <br>
 
