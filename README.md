@@ -50,7 +50,7 @@ python3 main.pyw
 <br>
 
 ## ***Note:*** 
-*1) Modern GUI Requires Python 3 (Not Python 2)*  
+*1) Modern GUI Requires Python 3 (Not Python 2).*  
 *2) When Using with Linux, Replace All `\\` with `/` to match the Linux Directory(s)!*
 
 <br><br><br>
