@@ -16,6 +16,8 @@
 1 - Free to Use (Needs Credit)  
 2 - Awesome UI  
 3 - Open Source
+4 - Automatic Last Window Screen Location Position
+And Many More...
 </pre>
 
 <br><br>
