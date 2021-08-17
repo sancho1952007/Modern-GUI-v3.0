@@ -23,7 +23,10 @@ And Many More...
 <br><br>
 
 ## ***Preview:-***
+![](https://i.ibb.co/s65b76z/Preview-Image.png)
 ![](https://i.ibb.co/1LyJ3v2/Preview-v3-0.gif)
+
+**Images/gif Shown Above Are Only For Illustrative Purposes**
 
 <br><br>
 
@@ -49,9 +52,7 @@ python3 main.pyw
 
 <br>
 
-## ***Note:*** 
-*1) Modern GUI Requires Python 3 (Not Python 2).*  
-*2) When Using with Linux, Replace All `\\` with `/` to match the Linux Directory(s)!*
+## ***Note:*** *Modern GUI Requires Python 3 (Not Python 2)*
 
 <br><br><br>
 
