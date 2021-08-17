@@ -1,12 +1,12 @@
 [![](https://i.ibb.co/NSdZcg3/logo.png)](https://github.com/sancho1952007/Modern-GUI-v3.0)
 
 ## ***What is Modern GUI?***
-**=>** It's An Awesome GUI Built Using Python Tkinter.
+<pre>It's An Awesome GUI Built Using Python Tkinter.</pre>
 
 <br><br>
 
 ## ***Where Can You Use It?***
-**=>** You Can Use it in Your Tkinter Apps!
+<pre>You Can Use it in Your Tkinter Apps!</pre>
 
 <br><br>
 
