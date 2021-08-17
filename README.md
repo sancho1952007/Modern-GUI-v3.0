@@ -52,8 +52,11 @@ python3 main.pyw
 
 <br>
 
-## ***Note:*** *Modern GUI Requires Python 3 (Not Python 2)*
+## ***Note:*** 
+*1) Modern GUI Requires Python 3 (Not Python 2) !*  
+*2) In Linux, Please Change All `\\` to `/` In The `main.py` code.*  
+*3) Please Distribute The `Modern-GUI-v3.0.txt` With Your Tkinter App.*
 
-<br><br><br>
+<br><br>
 
 # ***Thank You***
