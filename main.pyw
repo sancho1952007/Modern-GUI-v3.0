@@ -8,12 +8,12 @@
 
 \\ You Are Allowed to Customize this Script.
 
-\\ If you want to share this script or Customize and share: You Should Keep this comment with it.
+\\ If you want to share this script or Customize and share: You Should Keep this complete comment with it.
 
 """
 
-from tkinter import *
 from tkinter.font import *
+from tkinter import *
 import os
 path=os.path.dirname(os.path.realpath(__file__))+"\\"
 app=Tk()
