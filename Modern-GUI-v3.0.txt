@@ -1,0 +1,14 @@
+-- Kindly Distribute This File with your Tkinter App --
+
+This GUI is Built By Sancho Godinho ( https://github.com/sancho1952007 ).
+This is version 3.0 (Stable).
+
+Built-Using: Python/tkinter ( https://python.org/ ).
+Image Credits: Flaticon ( https://flaticon.com/ ).
+
+
+See GUI on Github: https://github.com/sancho1952007/Modern-GUI-v3.0
+
+======== Thank You ========
+
+(Please Don't Edit This File...)
