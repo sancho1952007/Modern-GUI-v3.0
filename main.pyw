@@ -22,7 +22,7 @@ app.config(bg="#d3d3d3")
 app.config(bd=1)
 app.attributes('-alpha', 0.9)
 
-with open('files\\location', 'r') as readLoc:
+with open(path+'files\\location', 'r') as readLoc:
     pos=readLoc.read().split('x')
     x_pos=''.join(pos[0])
     y_pos=''.join(pos[1])
@@ -30,7 +30,7 @@ with open('files\\location', 'r') as readLoc:
     readLoc.close()
 
 def qut(): # Quit Function (Exit)
-    with open('files\\location', 'w+') as write_loc:
+    with open(path+'files\\location', 'w+') as write_loc:
         write_loc.write(str(app.winfo_x())+'x'+str(app.winfo_y()))
         write_loc.close()
         app.destroy()
